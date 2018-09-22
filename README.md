@@ -2,6 +2,6 @@
 
 Installation Steps :
 
-npm install
-npm start
+npm install__
+npm start__
 
