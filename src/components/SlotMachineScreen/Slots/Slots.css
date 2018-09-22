@@ -1,0 +1,12 @@
+.Slots {
+  width:40%;
+  margin: auto;
+  padding: 10px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  background-color: white;
+  border-style: double;
+}

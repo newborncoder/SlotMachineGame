@@ -1,0 +1,35 @@
+
+
+.Slot {
+  padding: 5px;
+  margin: 5px;
+}
+
+.Apple {
+  background-color: red;
+
+}
+
+.Pineapple {
+  background-color: yellow;
+}
+
+.Banana {
+  background-color: green;
+}
+
+.Apple img{
+    width: 70px;
+    height: auto;
+}
+
+
+.Banana img{
+    width: 70px;
+    height: auto;
+}
+
+.Pineapple img{
+    width: 70px;
+    height: auto;
+}

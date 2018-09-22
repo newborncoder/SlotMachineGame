@@ -1,0 +1,25 @@
+.Spinner {
+   background-color: #4CAF50;
+   border: none;
+   color: white;
+   padding: 20px;
+   text-align: center;
+   text-decoration: none;
+   display: flex;
+   justify-content: center;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: pointer;
+   border-radius: 50%;
+   box-shadow: 0 9px #999;
+   align-items: center;
+}
+
+.SpinnerDiv {
+  padding: 10px;
+  margin: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+
+}
