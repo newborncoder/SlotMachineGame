@@ -1,7 +1,9 @@
 # SlotMachineGame
 
+
 Installation Steps :
 
-npm install__
-npm start__
+npm install
+
+npm start
 
