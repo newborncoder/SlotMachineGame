@@ -12,4 +12,4 @@ Enjoy!
 
 # SlotMachineGame - v2.0 
 
-The game UI would improve with fruits changings for 5 seconds, a better ouput on win and the probability of a fruit coming up would be specific. Coming sonn!
+The game UI would improve with fruits changings for 5 seconds, a better ouput on win and the probability of a fruit coming up would be specific. Coming soon!
